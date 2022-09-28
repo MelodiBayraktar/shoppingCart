@@ -1,0 +1,23 @@
+img.small{
+    max-height: 8rem;
+  }
+  .product{
+    margin: 0.3rem;
+    text-align: center;
+  }
+  .btn{
+    font-size: 1rem;
+    padding: 0.3rem;
+    margin: 0.1rem;
+    border-radius: 0.5rem;
+    border: 1px solid white;
+    width:95%;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(75, 121, 95);
+  }
+  .btn:hover{
+    background-color:  rgb(120, 78, 237);
+    color: white;
+    border: none;
+  }

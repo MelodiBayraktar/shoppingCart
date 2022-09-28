@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+button.badge{
+    background-color:  rgb(75, 121, 95);
+    border: none;
+    color: white;
+    width: 1.5rem;
+    border-radius: 50%;
+} 
